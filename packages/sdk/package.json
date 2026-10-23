@@ -59,7 +59,7 @@
         "knip": "knip"
     },
     "dependencies": {
-        "@modelcontextprotocol/sdk": "^1.13.0",
+        "@modelcontextprotocol/sdk": "^1.32.0",
         "@smythos/sre": "workspace:*",
         "@types/mime-types": "^3.0.1",
         "acorn": "^8.14.1",

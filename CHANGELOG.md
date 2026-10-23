@@ -5,6 +5,13 @@ Todos los cambios notables de este proyecto serán documentados en este archivo.
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.1] - 2026-10-22
+
+### Security
+- Monorepo: SDK MCP 1.32.0, vitest 3.2.6, faker 10.5.0 y `overrides` para grpc-js, protobufjs, fast-xml-parser,
+  form-data, proxy-addr, tinypool, brace-expansion y xmldom. Detalle en
+  [`docs/DEPENDENCIAS-2026-10-22.md`](docs/DEPENDENCIAS-2026-10-22.md).
+
 ## [1.0.0] - 2025-08-31
 
 ### 🎉 Lanzamiento Inicial Completo
